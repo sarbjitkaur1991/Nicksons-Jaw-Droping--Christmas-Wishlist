@@ -1,0 +1,46 @@
+.sample1{
+    justify-content: flex-start;
+display: flex;   
+    background-color:yellow; 
+color:black;
+    padding:15.2px;
+    margin:1px;
+    border:14px  dotted blue;
+}
+
+.sample2{
+    font-family: 'Playfair Display',serif;
+    justify-content: flex-start;
+ display: flex;   
+    background-color:yellow; 
+color:black;
+    padding:15.2px;
+    margin:1px;
+    border:10px solid black;
+    border:14px  dotted red;
+}
+
+.item{
+     display: flex;   
+    background-color: yellow;
+}
+
+h1{
+ display: flex;   
+color: white;
+    padding:5px;
+     border: 3px tan dotted;
+    justify-content: center;
+}
+
+
+img {
+    height: 285px;
+    width: 500px;
+    border-radius: 90px;
+      border: dotted ;
+}
+
+body {
+  background-image:url("https://i.pinimg.com/originals/10/6a/b1/106ab128ae26ae4a79e1473b0dc58268.gif");
+}
